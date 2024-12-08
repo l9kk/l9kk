@@ -17,7 +17,9 @@
 
 <hr />
 
-<img align="right" width="400" src='https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif' alt="Coding GIF"/>
+<img align="right" width="400" src="https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif" alt="Coding GIF" style="margin:10px 0 10px 20px;"/>
+
+<div style="clear:both;"></div>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=l9kk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
