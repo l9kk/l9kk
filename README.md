@@ -39,14 +39,9 @@
 
 ## My Stats
 
-<!-- Customize your theme: visit https://github-profile-summary-cards.vercel.app/demo.html for theme previews -->
-<!-- Example theme: "2077" is a dark, cyberpunk-style theme. You can pick another one that matches your preference. -->
-
 <div align="center">
   
-  <!-- Main Stats Section (Contributions / Streak) -->
   <div>
-    <!-- You can replace this profile-details card with a contributions graph if you prefer -->
     <!-- Profile Details Card: Shows total contributions and more -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l9kk&theme=2077" alt="Profile Details Card" width="500"/>
   </div>
