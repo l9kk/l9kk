@@ -40,31 +40,23 @@
 ## My Stats
 
 <div align="center">
-  
-  <div>
-    <!-- Profile Details Card: Shows total contributions and more -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l9kk&theme=2077" alt="Profile Details Card" width="500"/>
-  </div>
-  
-  <!-- Language & Stats Section -->
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l9kk&theme=2077" alt="Profile Details Card" width="500"/>
+
   <table>
     <tr>
       <td>
-        <!-- Top Languages by Repo -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l9kk&theme=2077" alt="Top Languages by Repo" width="300"/>
       </td>
       <td>
-        <!-- Top Languages by Commit -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l9kk&theme=2077" alt="Top Languages by Commit" width="300"/>
       </td>
     </tr>
     <tr>
       <td>
-        <!-- General Stats (Stars, Commits, PRs, Issues) -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l9kk&theme=2077" alt="Stats Card" width="300"/>
       </td>
       <td>
-        <!-- Productive Time (Commits by Hour) -->
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=l9kk&theme=2077" alt="Commits by Hour" width="300"/>
       </td>
     </tr>
