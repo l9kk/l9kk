@@ -17,30 +17,36 @@
 
 <hr />
 
-<img align="right" width="400" src="https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif" alt="Coding GIF" style="margin:10px 0 10px 20px;"/>
-
-<div style="clear:both;"></div>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=l9kk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### About Me
-- 🌱 **Currently Learning:** Django & Django Rest Framework  
-- 💼 **Interests:** Building APIs, working with backend frameworks, and exploring Cloud Technologies.  
-- 🎯 **Goal:** Leveraging Python and its ecosystems to deliver robust, scalable backend solutions.
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul style="list-style-type:none; padding-left:0;">
+        <li>🌱 <strong>Currently Learning:</strong> Django & Django Rest Framework</li>
+        <li>💼 <strong>Interests:</strong> Building APIs, working with backend frameworks, and exploring Cloud Technologies.</li>
+        <li>🎯 <strong>Goal:</strong> Leveraging Python and its ecosystems to deliver robust, scalable backend solutions.</li>
+      </ul>
+    </td>
+    <td align="right" style="padding-left:20px; vertical-align:top;">
+      <img width="400" src="https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif" alt="Coding GIF" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💎 My Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,js,css,java,postgres,git,aws" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,django,html,js,css,java,postgres,git,aws" alt="Tech Stack" />
 </div>
 
 ---
 
 ## My Stats
-
 <div align="center">
   <!-- Profile Details Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l9kk&theme=2077" alt="Profile Details Card" width="500"/>
