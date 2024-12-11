@@ -1,5 +1,3 @@
-![MasterHead](https://i.gifer.com/VJEm.gif)
-
 <h1 align="center">Hi 👋, I'm Askhat</h1>
 <h3 align="center">Backend Developer & 1st-year Student at SDU</h3>
 <p align="center">
@@ -52,14 +50,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l9kk&theme=2077" alt="Profile Details Card" width="500"/>
 
   <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l9kk&theme=2077" alt="Top Languages by Repo" width="300"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l9kk&theme=2077" alt="Top Languages by Commit" width="300"/>
-      </td>
-    </tr>
     <tr>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l9kk&theme=2077" alt="Stats Card" width="300"/>
