@@ -24,7 +24,7 @@
   <tr>
     <td style="vertical-align:top;">
       <ul style="list-style-type:none; padding-left:0;">
-        <li>🌱 <strong>Currently Learning:</strong> Django & Django Rest Framework</li>
+        <li>🌱 <strong>Currently Learning:</strong> FastAPI </li>
         <li>💼 <strong>Interests:</strong> Building APIs, working with backend frameworks, and exploring Cloud Technologies.</li>
         <li>🎯 <strong>Goal:</strong> Leveraging Python and its ecosystems to deliver robust, scalable backend solutions.</li>
       </ul>
