@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1v1susXQgfvuiZGuzBkP4XZ3VVdBR0k_U/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1nUxxStnvVPBmvOaIEhY1fKNX3bv1bDl2/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </div>
