@@ -20,7 +20,7 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🌱 <strong>Currently Learning:</strong> FastAPI & Advanced Django Patterns</li>
+        <li>🌱 <strong>Currently Learning:</strong> Kafka & Celery</li>
         <li>💼 <strong>Interests:</strong> Building APIs, Backend Architectures, and Cloud Technologies</li>
         <li>🎯 <strong>Goal:</strong> Leveraging Python and its ecosystems to deliver robust, scalable backend solutions</li>
         <li>🔭 <strong>Working On:</strong> RESTful API development and database optimization</li>
