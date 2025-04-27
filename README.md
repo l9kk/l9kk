@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Askhat</h1>
-<h3 align="center">Backend Developer & 1st-year Student at SDU</h3>
+<h3 align="center">DevOps Engineer & 1st-year Student at SDU</h3>
 <p align="center">
   <em>"Consistency is key"</em>
 </p>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1nUxxStnvVPBmvOaIEhY1fKNX3bv1bDl2/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/14MdtGCEiI3u4yZQV4ls__LxJYm8ns3UG/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </div>
@@ -20,10 +20,9 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🌱 <strong>Currently Learning:</strong> Kafka & Celery</li>
-        <li>💼 <strong>Interests:</strong> Building APIs, Backend Architectures, and Cloud Technologies</li>
-        <li>🎯 <strong>Goal:</strong> Leveraging Python and its ecosystems to deliver robust, scalable backend solutions</li>
-        <li>🔭 <strong>Working On:</strong> RESTful API development and database optimization</li>
+        <li>🌱 <strong>Currently Learning:</strong> Kubernetes, Ansible</li>
+        <li>💼 <strong>Interests:</strong> CI/CD pipelines, Infrastructure as Code, Automated Monitoring</li>
+        <li>🎯 <strong>Goal:</strong> Building resilient, scalable infrastructure with end-to-end automation</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -36,15 +35,20 @@
 
 ### 💎 Technical Skills
 <div align="center">
-  <h4>Languages & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=sf,python,django,fastapi,java,SQL" alt="Languages & Frameworks" />
+  <h4>DevOps & Infrastructure</h4>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,github,aws" alt="DevOps & Infra" />
 
-  <h4>Databases & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,aws,docker,redis" alt="Databases & Tools" />
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=sf,python,bash,django,fastapi,java,SQL" alt="Languages & Frameworks" />
+
+  <h4>Databases</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases & Tools" />
   
   <h4>Web Technologies</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
 </div>
+
+
 
 ---
 
@@ -53,6 +57,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l9kk&theme=2077" alt="Stats Card" width="320"/>
 </div>
 
+---
 
 ### 📫 How to Reach Me
 <div align="center">
@@ -60,10 +65,9 @@
     <img src="https://img.shields.io/badge/Telegram-@weaverrrr-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:askhat.ss23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-askhat.ss23%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/askhat-samedulla/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
