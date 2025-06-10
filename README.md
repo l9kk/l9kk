@@ -8,11 +8,6 @@
   <em>"Consistency is key"</em>
 </p>
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/14MdtGCEiI3u4yZQV4ls__LxJYm8ns3UG/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
-</div>
 <hr/>
 
 ### 👨‍💻 About Me
