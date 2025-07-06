@@ -31,7 +31,7 @@
 ### 💎 Technical Skills
 <div align="center">
   <h4>DevOps & Infrastructure</h4>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,github,aws" alt="DevOps & Infra" />
+  <img src="https://skillicons.dev/icons?i=docker,ansible,github,aws" alt="DevOps & Infra" />
 
   <h4>Languages & Frameworks</h4>
   <img src="https://skillicons.dev/icons?i=sf,python,bash,django,fastapi,java,SQL" alt="Languages & Frameworks" />
