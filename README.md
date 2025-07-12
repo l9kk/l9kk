@@ -56,9 +56,6 @@
 
 ### 📫 How to Reach Me
 <div align="center">
-  <a href="https://t.me/weaverrrr">
-    <img src="https://img.shields.io/badge/Telegram-@weaverrrr-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <a href="mailto:askhat.ss23@gmail.com">
     <img src="https://img.shields.io/badge/Email-askhat.ss23%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
