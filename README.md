@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Askhat</h1>
-<h3 align="center">DevOps Engineer & 1st-year Student at SDU</h3>
+<h3 align="center">Software Engineer & 1st-year Student at SDU</h3>
 <p align="center">
   <em>"Consistency is key"</em>
 </p>
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases & Tools" />
   
   <h4>Web Technologies</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Technologies" />
 </div>
 
 
